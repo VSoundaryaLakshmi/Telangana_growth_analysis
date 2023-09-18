@@ -5,3 +5,6 @@ Dashboard Link: https://drive.google.com/file/d/1OLsB8hTkv2IQNxYs9QAPflLGR0LO0Ru
 
 
 Explanation Link: https://drive.google.com/file/d/12ry-T4_Prkg6zraTZ3i70BK26XB4czdx/view?usp=drive_link
+
+
+All Datsets: https://drive.google.com/drive/folders/15FdoEVYgsMX8CXz4OC1UqHigayZUH8UF?usp=drive_link
